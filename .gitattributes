@@ -27,6 +27,4 @@ tests/ export-ignore
 src/ export-ignore
 build/ export-ignore
 Jakefile.js export-ignore
-package.json export-ignore
-composer.json export-ignore
 .* export-ignore
